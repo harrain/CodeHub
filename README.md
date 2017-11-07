@@ -11,14 +11,25 @@
 - 各种adapter功能 [BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
 
 	> 国内同类框架star数量第一，20多位开发者。源码研究有利于提高自定义view能力。和原始的adapter相对，减少70%的代码量。添加Item事件，一行代码轻松切换5种默认动画。一行代码添加头部尾部,可自定义加载布局，显示异常提示，自定义异常提示。随心定义分组头部。添加拖拽、滑动删除。树形列表比ExpandableListView还要强大，支持多级。
+	
+	![animate](https://user-images.githubusercontent.com/7698209/30015050-a60706b4-9181-11e7-91a5-5444ba193aa1.gif)
+	![drag](https://user-images.githubusercontent.com/7698209/30015057-a6446cf2-9181-11e7-9458-8ab83de21aab.gif)
 
 - [FlexibleAdapter](https://github.com/davideas/FlexibleAdapter)
 
 	> 歪果仁写的特别棒的极具表现力的adapter
 	
+	![FlexibleAdapter](https://github.com/davideas/FlexibleAdapter/blob/master/screenshots/demo20_adapter_animations.png)
+	
 - [SwipeMenuRecyclerView](https://github.com/AItsuki/SwipeMenuRecyclerView)
 
 	> RecyclerView左滑右划，简单易懂，方便移植
+	
+	![SwipeMenuRecyclerView](http://upload-images.jianshu.io/upload_images/2202079-68f9a97838a05c53.gif?imageMogr2/auto-orient/strip)
+	
+- 更多效果的RecyclerView [SwipeRecyclerView](https://github.com/yanzhenjie/SwipeRecyclerView)
+
+	<img src="https://github.com/yanzhenjie/SwipeRecyclerView/blob/master/image/9.gif" width="350px" height="600px"/>
 	
 - [ImagePicker](https://github.com/jeasonlzy/ImagePicker)
 
@@ -61,8 +72,21 @@
 - 又一底部导航栏 [ahbottomnavigation](https://github.com/aurelhubert/ahbottomnavigation)
 
 	<img src="https://raw.githubusercontent.com/aurelhubert/ahbottomnavigation/master/demo2.gif" width="350px" height="650px"/>
-	
 
+- 又二导航栏 [BottomNavigation](https://github.com/Ashok-Varma/BottomNavigation)
+
+	<img src="https://raw.githubusercontent.com/Ashok-Varma/BottomNavigation/master/all.gif" width="350px" height="650px"/>
+	
+- [Context-Menu](https://github.com/Yalantis/Context-Menu.Android)
+
+	<img src="https://camo.githubusercontent.com/46c15734b552ce3afefa7efd1518909046b4677e/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3132353035362f73637265656e73686f74732f313738353237342f39396d696c65732d70726f66696c652d6c696768745f312d312d342e676966" width="600px" height="700px"/>
+	
+- 小视频列表 [VideoListPlayer](https://github.com/waynell/VideoListPlayer)
+
+	> VideoListPlayer实现了在列表控件（ListView, RecyclerView）中加载并播放视频，并支持滑动时自动播放/暂停的功能. 利用该项目，可以轻松实现类似Instagram的视频播放功能
+	
+	![list](https://github.com/waynell/VideoListPlayer/blob/master/art/preview.gif)
+	
 #### 后台
 
 - 进程保活和自启动 [HelloDaemon](https://github.com/xingda920813/HelloDaemon)
@@ -101,6 +125,28 @@
 - 通讯录 [IndexRecyclerView](https://github.com/jiang111/IndexRecyclerView)
 
 	<img src="https://raw.githubusercontent.com/jiang111/IndexRecyclerView/master/art/art.gif" width="350px" height="600px"/>
+	
+- 自定义相机 [Android-CustomCamera](https://github.com/jinguangyue/Android-CustomCamera)
+
+	> 基本的拍照功能， 前后置摄像头，闪光灯模式，延迟拍摄，正方形取景框
+	
+- 仿微信朋友圈 [CircleDemo](https://github.com/Naoki2015/CircleDemo)
+
+	> 模拟与后台交互实现了点赞、评论、删除等功能，RecyclerView可以根据键盘的显示或隐藏实现联动。 增加短视频拍摄功能（趣拍标准版SDK） 与后台交互采用mvp模式。
+	
+	<img src="https://github.com/Naoki2015/CircleDemo/blob/master/CircleDemo/imgs/2.png" width="350px" height="650px"/>
+	
+- [RxDownload](https://github.com/harrain/RxDownload)
+
+	> 基于RxJava打造的下载工具, 支持多线程下载和断点续传, 智能判断是否支持断点续传等功能
+	
+- 新闻资讯类 [GeekNews](https://github.com/codeestX/GeekNews)
+
+	<img src="https://github.com/codeestX/GeekNews/blob/master/screenshots/PNG4.png" width="350px" height="600px"/>
+	
+- 天气预报App [SeeWeather](https://github.com/xcc3641/SeeWeather)
+
+	![screen](https://github.com/xcc3641/SeeWeather/blob/master/images/night.png)
 	
 ##### 视频，直播类
 
