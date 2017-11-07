@@ -42,14 +42,14 @@
 - 简单易用的ProgressBar [ProgressBar](https://github.com/liihuu/ProgressBar)
 
 	横向的带文字提示的progressbar，圆形百分比进度条，简单却很实用
-	<img src="https://github.com/liihuu/ProgressBar/blob/master/ProgressBar/Screenshots/screenshot.png" width="100" height="200"/>
+	<img src="https://github.com/liihuu/ProgressBar/blob/master/ProgressBar/Screenshots/screenshot.png" width="350" height="550"/>
 	
 - 更好地理解触摸系统 [custom-touch-examples](https://github.com/devunwired/custom-touch-examples)
 
 - 小红点 [DotView](https://github.com/mengxn/DotView)
 
 	未读消息提示，可自定义颜色及Padding
-	![xiaohongdian](https://github.com/mengxn/DotView/blob/master/image/demo_2.png)
+	<img src="https://github.com/mengxn/DotView/blob/master/image/demo_2.png" width="600px" height="350px"/>
 
 #### 后台
 
@@ -77,11 +77,11 @@
 - 闹钟 [Android-AlarmManagerClock](https://github.com/loonggg/Android-AlarmManagerClock)
 
 	可以设置每天的闹钟，周一到星期天之间多选的闹钟，也可以设置选择一次性闹钟，跟系统设置闹钟的方式基本差不多吧。
-	<img src="https://raw.githubusercontent.com/loonggg/BlogImages/master/AlarmManager/ssdsfsdfs.gif" width="350px" height="700px" />
+	<img src="https://raw.githubusercontent.com/loonggg/BlogImages/master/AlarmManager/ssdsfsdfs.gif" width="350px" height="600px" />
 	
 - 通讯录 [IndexRecyclerView](https://github.com/jiang111/IndexRecyclerView)
 
-	<img src="https://raw.githubusercontent.com/jiang111/IndexRecyclerView/master/art/art.gif" width="350px" height="650px"/>
+	<img src="https://raw.githubusercontent.com/jiang111/IndexRecyclerView/master/art/art.gif" width="350px" height="600px"/>
 	
 ##### 视频，直播类
 
