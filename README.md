@@ -39,13 +39,25 @@
 	An example app using a SearchView to filter items in a RecyclerView while taking full advantage of item animations!
 	![searchview](https://camo.githubusercontent.com/0801b304b01e058c14f325cdcdf0884f5021493e/687474703a2f2f692e737461636b2e696d6775722e636f6d2f71447448372e676966)
 
+- 简单易用的ProgressBar [ProgressBar](https://github.com/liihuu/ProgressBar)
+
+	横向的带文字提示的progressbar，圆形百分比进度条，简单却很实用
+	<img src="https://github.com/liihuu/ProgressBar/blob/master/ProgressBar/Screenshots/screenshot.png" width="100" height="200"/>
+	
+- 更好地理解触摸系统 [custom-touch-examples](https://github.com/devunwired/custom-touch-examples)
+
+- 小红点 [DotView](https://github.com/mengxn/DotView)
+
+	未读消息提示，可自定义颜色及Padding
+	![xiaohongdian](https://github.com/mengxn/DotView/blob/master/image/demo_2.png)
+
 #### 后台
 
 - 进程保活和自启动 [HelloDaemon](https://github.com/xingda920813/HelloDaemon)
 
 	Android 后台进程服务保活/常驻，自启动管理，亲测有效
 	
-####开源框架，项目
+#### 开源框架，项目
 
 
 - 开发工具类汇总 [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)
@@ -65,7 +77,11 @@
 - 闹钟 [Android-AlarmManagerClock](https://github.com/loonggg/Android-AlarmManagerClock)
 
 	可以设置每天的闹钟，周一到星期天之间多选的闹钟，也可以设置选择一次性闹钟，跟系统设置闹钟的方式基本差不多吧。
-	<img src="https://raw.githubusercontent.com/loonggg/BlogImages/master/AlarmManager/ssdsfsdfs.gif" width="450" height="700" />
+	<img src="https://raw.githubusercontent.com/loonggg/BlogImages/master/AlarmManager/ssdsfsdfs.gif" width="350px" height="700px" />
+	
+- 通讯录 [IndexRecyclerView](https://github.com/jiang111/IndexRecyclerView)
+
+	<img src="https://raw.githubusercontent.com/jiang111/IndexRecyclerView/master/art/art.gif" width="350px" height="650px"/>
 	
 ##### 视频，直播类
 
