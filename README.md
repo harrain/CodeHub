@@ -27,21 +27,17 @@
 	
 	![SwipeMenuRecyclerView](http://upload-images.jianshu.io/upload_images/2202079-68f9a97838a05c53.gif?imageMogr2/auto-orient/strip)
 	
+- 专注RecyclerView滑动隐藏效果 [AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout)
+
+	![AndroidSwipeLayout](https://camo.githubusercontent.com/878e29e5defd2c64db4a5ec93119e133cab00807/687474703a2f2f7777322e73696e61696d672e636e2f6d773639302f36313064633033346a7731656a6f706c6170777471673230386e3065373464782e676966)
+	
 - 更多效果的RecyclerView [SwipeRecyclerView](https://github.com/yanzhenjie/SwipeRecyclerView)
 
 	<img src="https://github.com/yanzhenjie/SwipeRecyclerView/blob/master/image/9.gif" width="350px" height="600px"/>
 	
-- [ImagePicker](https://github.com/jeasonlzy/ImagePicker)
+- 时尚感十足的侧滑栏 [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer)
 
-	> 完全仿微信的图片选择，并且提供了多种图片加载接口，选择图片后可以旋转，可以裁剪成矩形或圆形，可以配置各种其他的参数
-	
-	![ImagePicker](https://github.com/jeasonlzy/Screenshots/blob/master/ImagePicker/demo2.gif)
-
-- [GalleryFinal](https://github.com/pengjianbo/GalleryFinal)
-
-	> Android自定义相册，实现了拍照、图片选择（单选/多选）、 裁剪（单/多裁剪）、旋转、ImageLoader无绑定任由开发者选择、功能可配置、主题样式可配置。GalleryFinal为你定制相册。
-	
-	![GalleryFinal](https://github.com/pengjianbo/GalleryFinal/blob/master/images/gallery_edit.jpg)
+	<img src="https://raw.githubusercontent.com/mikepenz/MaterialDrawer/develop/DEV/github/screenshots2.jpg" width="1000px" height="600px"/>
 	
 - loading动画 [LoadingDrawable](https://github.com/dinuscxj/LoadingDrawable)
 
@@ -54,6 +50,12 @@
 	> An example app using a SearchView to filter items in a RecyclerView while taking full advantage of item animations!
 	
 	![searchview](https://camo.githubusercontent.com/0801b304b01e058c14f325cdcdf0884f5021493e/687474703a2f2f692e737461636b2e696d6775722e636f6d2f71447448372e676966)
+
+- 滚动文本显示组件 [ticker](https://github.com/robinhood/ticker)
+
+	> ticker是一个简单的Android UI组件，用于显示滚动文本。想象一下一个里程表是如何从一个数字到另一个数字的，这和ticker(股票行情)是一样的。ticker可以处理字符串之间的平滑动画和字符串调整(例如，从“9999”到“10000”)。
+	
+	![ticker](https://github.com/robinhood/ticker/blob/master/assets/ticker_main.gif)
 
 - 简单易用的ProgressBar [ProgressBar](https://github.com/liihuu/ProgressBar)
 
@@ -68,6 +70,12 @@
 	> 未读消息提示，可自定义颜色及Padding
 	
 	<img src="https://github.com/mengxn/DotView/blob/master/image/demo_2.png" width="600px" height="350px"/>
+	
+- 未读消息红点 [BadgeView](https://github.com/crazyqiang/BadgeView)
+
+	使用方便
+	
+	![BadgeView](https://github.com/crazyqiang/BadgeView/blob/master/Picture.png)
 
 - 底部导航栏 [BottomBar](https://github.com/roughike/BottomBar)
 
@@ -84,6 +92,26 @@
 - [Context-Menu](https://github.com/Yalantis/Context-Menu.Android)
 
 	<img src="https://camo.githubusercontent.com/46c15734b552ce3afefa7efd1518909046b4677e/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3132353035362f73637265656e73686f74732f313738353237342f39396d696c65732d70726f66696c652d6c696768745f312d312d342e676966" width="600px" height="700px"/>
+
+- [ImagePicker](https://github.com/jeasonlzy/ImagePicker)
+
+	> 完全仿微信的图片选择，并且提供了多种图片加载接口，选择图片后可以旋转，可以裁剪成矩形或圆形，可以配置各种其他的参数
+	
+	![ImagePicker](https://github.com/jeasonlzy/Screenshots/blob/master/ImagePicker/demo2.gif)
+
+- [GalleryFinal](https://github.com/pengjianbo/GalleryFinal)
+
+	> Android自定义相册，实现了拍照、图片选择（单选/多选）、 裁剪（单/多裁剪）、旋转、ImageLoader无绑定任由开发者选择、功能可配置、主题样式可配置。GalleryFinal为你定制相册。
+	
+	![GalleryFinal](https://github.com/pengjianbo/GalleryFinal/blob/master/images/gallery_edit.jpg)
+		
+- 日期选择器 [DavidDatePickerDemo](https://github.com/QQ986945193/DavidDatePickerDemo)
+
+	![DavidDatePickerDemo](https://camo.githubusercontent.com/dbcb5b50967f27caaa720ae01bf352455e53b918/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313630393135323331313232383831)
+
+- 图表 [hellocharts-android](https://github.com/lecho/hellocharts-android)
+
+	![hellocharts](https://github.com/lecho/hellocharts-android/blob/master/screens/scr_dependecy_preview.gif)
 	
 - 小视频列表 [VideoListPlayer](https://github.com/waynell/VideoListPlayer)
 
@@ -106,7 +134,7 @@
 
 - 腾讯浏览服务TBS [WebviewTBS](https://github.com/lshAndroid/WebviewTBS)	
 
-	> 基于腾讯浏览器X5WebView内核，支持html5视频全屏，支持小窗口播放模式，支持视频下载，和qq浏览器打开，腾讯视频等网页视频播放，二次封装，方便升级，代码精简直接集成
+	> 如果你加载网页，强烈建议使用TBS替换掉原生WebView。基于腾讯浏览器X5WebView内核，支持短链接，支持html5视频全屏，支持小窗口播放模式，支持视频下载，和qq浏览器打开，腾讯视频等网页视频播放，二次封装，方便升级，代码精简直接集成
 	
 	![tbs](https://github.com/lshAndroid/WebviewTBS/blob/master/git0.gif)
 
@@ -152,6 +180,22 @@
 
 	![screen](https://github.com/xcc3641/SeeWeather/blob/master/images/night.png)
 	
+- 一个不错的音乐播放器 [StylishMusicPlayer](https://github.com/ryanhoo/StylishMusicPlayer)
+
+	![StylishMusicPlayer](https://github.com/ryanhoo/StylishMusicPlayer/blob/develop/materials/Artboard.png)
+	
+- 生活类 [RNPolymerPo](https://github.com/yanbober/RNPolymerPo)
+
+	> 一个基于 React Native 的 Android 企业级生活类聚合实战应用。
+	
+	![RNPolymerPo](https://github.com/yanbober/RNPolymerPo/blob/master/doc/home_page.png)
+	
+- 注重架构的一个小练习demo [MVPframe](https://github.com/CarlLu/MVPframe)
+
+	> 使用了Dagger2+Rxjava+Retrofit+MVP，算是代码架构的一个小练习
+	
+	![MVPframe](https://github.com/CarlLu/MVPframe/blob/master/intro.gif)
+	
 ##### 视频，直播类
 
 - 直播SDK [SmarterStreaming](https://github.com/daniulive/SmarterStreaming)
@@ -173,4 +217,8 @@
 - 环信直播练手项目 [livestream_demo_android](https://github.com/easemob/livestream_demo_android)
 
 	> 本demo演示了通过环信及ucloud sdk实现视频直播及直播室聊天,简单易懂，想了解直播的，可以clone
+	
+- 值得研究，功能精简的视频播放器 [JiaoZiVideoPlayer](https://github.com/lipangit/JiaoZiVideoPlayer)
+
+	![JiaoZiVideoPlayer](https://user-images.githubusercontent.com/2038071/31045150-a077cc8a-a5a2-11e7-8dc2-7a0e3a9f3e62.jpg)
 
