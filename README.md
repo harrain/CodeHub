@@ -34,10 +34,14 @@
 - [ImagePicker](https://github.com/jeasonlzy/ImagePicker)
 
 	> 完全仿微信的图片选择，并且提供了多种图片加载接口，选择图片后可以旋转，可以裁剪成矩形或圆形，可以配置各种其他的参数
+	
+	![ImagePicker](https://github.com/jeasonlzy/Screenshots/blob/master/ImagePicker/demo2.gif)
 
 - [GalleryFinal](https://github.com/pengjianbo/GalleryFinal)
 
 	> Android自定义相册，实现了拍照、图片选择（单选/多选）、 裁剪（单/多裁剪）、旋转、ImageLoader无绑定任由开发者选择、功能可配置、主题样式可配置。GalleryFinal为你定制相册。
+	
+	![GalleryFinal](https://github.com/pengjianbo/GalleryFinal/blob/master/images/gallery_edit.jpg)
 	
 - loading动画 [LoadingDrawable](https://github.com/dinuscxj/LoadingDrawable)
 
