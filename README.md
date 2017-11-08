@@ -31,9 +31,19 @@
 
 	![AndroidSwipeLayout](https://camo.githubusercontent.com/878e29e5defd2c64db4a5ec93119e133cab00807/687474703a2f2f7777322e73696e61696d672e636e2f6d773639302f36313064633033346a7731656a6f706c6170777471673230386e3065373464782e676966)
 	
+- 仿今日头条网格动态拖动排序 [ItemTouchHelperDemo](https://github.com/YoKeyword/ItemTouchHelperDemo)
+
+	> ItemTouchHelper实现今日头条频道排序、移动 (仅供参考，实际中建议封装下使用)
+	
+	![ItemTouchHelperDemo](https://camo.githubusercontent.com/ffdf764e108d0e9dcd9d24da20f71d8ff0957b75/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3933373835312d326466353066663938333364643338362e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970)
+	
 - 更多效果的RecyclerView [SwipeRecyclerView](https://github.com/yanzhenjie/SwipeRecyclerView)
 
 	<img src="https://github.com/yanzhenjie/SwipeRecyclerView/blob/master/image/9.gif" width="350px" height="600px"/>
+	
+- 提供多种卡片式视图 [MaterialList](https://github.com/dexafree/MaterialList)
+
+	<img src="https://camo.githubusercontent.com/ea76ab9845e1c747f4dff83117181a5cb1ecb63f/687474703a2f2f692e696d6775722e636f6d2f7672347650366f2e706e67" width="450px" height="550px"/>
 	
 - 时尚感十足的侧滑栏 [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer)
 
@@ -93,6 +103,10 @@
 
 	<img src="https://camo.githubusercontent.com/46c15734b552ce3afefa7efd1518909046b4677e/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3132353035362f73637265656e73686f74732f313738353237342f39396d696c65732d70726f66696c652d6c696768745f312d312d342e676966" width="600px" height="700px"/>
 
+- 模糊蒙版引导[MaterialIntroView](https://github.com/xiangzhihong/MaterialIntroView-master)
+
+	![MaterialIntroView](https://raw.githubusercontent.com/iammert/MaterialIntroView/master/art/materialintroviewgif.gif)
+	
 - [ImagePicker](https://github.com/jeasonlzy/ImagePicker)
 
 	> 完全仿微信的图片选择，并且提供了多种图片加载接口，选择图片后可以旋转，可以裁剪成矩形或圆形，可以配置各种其他的参数
