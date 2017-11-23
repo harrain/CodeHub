@@ -142,6 +142,10 @@
 - 进程保活和自启动 [HelloDaemon](https://github.com/xingda920813/HelloDaemon)
 
 	> Android 后台进程服务保活/常驻，自启动管理，亲测有效
+
+- 热修复 [阿里sophix](https://github.com/harrain/AndroidPractices)
+
+	> 史上最好用、最简单的热修复框架
 	
 #### 开源框架，项目
 
