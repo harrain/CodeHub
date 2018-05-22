@@ -180,9 +180,11 @@
 
 	<img src="https://raw.githubusercontent.com/jiang111/IndexRecyclerView/master/art/art.gif" width="350px" height="600px"/>
 	
-- 自定义相机 [Android-CustomCamera](https://github.com/jinguangyue/Android-CustomCamera)
+- 高仿微信自定义全屏相机 [Android-CustomCamera](http://www.demodashi.com/demo/13271.html)
 
-	> 基本的拍照功能， 前后置摄像头，闪光灯模式，延迟拍摄，正方形取景框
+	> 全屏预览拍照 适配任何机型 不受相机PictureSize的限制， 前后置摄像头，闪光灯模式，自动聚焦 手动聚焦显示聚焦框。
+
+	<img src="/screenshots/customcameraYanshi.gif" width="350px" height="650px"/>
 	
 - 仿微信朋友圈 [CircleDemo](https://github.com/Naoki2015/CircleDemo)
 
@@ -212,11 +214,10 @@
 	
 	![RNPolymerPo](https://github.com/yanbober/RNPolymerPo/blob/master/doc/home_page.png)
 	
-- 注重架构的一个小练习demo [MVPframe](https://github.com/CarlLu/MVPframe)
+- 注重架构的一个小练习demo [MVP-todo](https://github.com/harrain/AndroidArchitectureSample/tree/master/mvp-todo)
 
-	> 使用了Dagger2+Rxjava+Retrofit+MVP，算是代码架构的一个小练习
+	> 解析Google推荐的MVP-todo模式，精简化，比googlesample更容易的理解MVP-todo
 	
-	![MVPframe](https://github.com/CarlLu/MVPframe/blob/master/intro.gif)
 	
 ##### 视频，直播类
 
